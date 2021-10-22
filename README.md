@@ -56,22 +56,15 @@ Currently learning Data Science in DeepLearningSchool by MIPT.
 
 **Machine learning frameworks and libraries**
 <br/>
-<!-- ![Tensorflow](https://img.shields.io/badge/-tensorflow-005571?style=flat-square&logo=tensorflow)
-![Pytorch](https://img.shields.io/badge/-pytorch-005571?style=flat-square&logo=pytorch) -->
 ![numpy](https://img.shields.io/badge/-numpy-005571?style=flat-square&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-005571?style=flat-square&logo=pandas)
 ![scipy](https://img.shields.io/badge/-scipy-005571?style=flat-square&logo=scipy)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-005571?style=flat-square&logo=matplotlib)
 ![sklearn](https://img.shields.io/badge/-sklearn-005571?style=flat-square&logo=sklearn)
-<!-- ![nltk](https://img.shields.io/badge/-nltk-005571?style=flat-square&logo=nltk) -->
-<!-- ![spacy](https://img.shields.io/badge/-spacy-005571?style=flat-square&logo=spacy)
-![gensim](https://img.shields.io/badge/-gensim-005571?style=flat-square&logo=gensim)
-![opencv](https://img.shields.io/badge/-opencv-005571?style=flat-square&logo=opencv) -->
 
 **DataBases**
 <br/>
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-005571?style=flat-square&logo=postgresql) -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-005571?style=flat-square&logo=postgresql)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-005571?style=flat-square&logo=python)
 
 
@@ -86,9 +79,6 @@ Currently learning Data Science in DeepLearningSchool by MIPT.
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-005571?style=flat-square&logo=google-cloud)
 ![Jupyter](https://img.shields.io/badge/-jupyter-005571?style=flat-square&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-googlecolab-005571?style=flat-square&logo=googlecolab)
-<!-- ![Grafana](https://img.shields.io/badge/-grafana-005571?style=flat-square&logo=grafana)
-![Jekyll](https://img.shields.io/badge/-jekyll-005571?style=flat-square&logo=jekyll)
-![Docker](https://img.shields.io/badge/-Docker-005571?style=flat-square&logo=docker) -->
 ![Git](https://img.shields.io/badge/-Git-005571?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-005571?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-005571?style=flat-square&logo=gitlab)
