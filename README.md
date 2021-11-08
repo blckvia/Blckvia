@@ -56,6 +56,7 @@ Currently learning Data Science in DeepLearningSchool by MIPT.
 
 **Machine learning frameworks and libraries**
 <br/>
+![Pytorch](https://img.shields.io/badge/-pytorch-005571?style=flat-square&logo=pytorch)
 ![numpy](https://img.shields.io/badge/-numpy-005571?style=flat-square&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-005571?style=flat-square&logo=pandas)
 ![scipy](https://img.shields.io/badge/-scipy-005571?style=flat-square&logo=scipy)
