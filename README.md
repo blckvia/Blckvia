@@ -38,7 +38,7 @@ Currently learning Data Science in DeepLearningSchool by MIPT.
 </a>
 
 <a href="https://stepik.org/users/390342899" title='Stepik'>
-    <img align="left" alt="Alex Vyatkin's Stepik profile" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+    <img align="left" alt="Alex Vyatkin's Stepik profile" width="32px" src="https://static.tildacdn.com/tild3532-6435-4362-b938-633433363964/stepik_logotype_squa.svg" />
 </a>
 
 <a href="https://leetcode.com/blckvia/" title='Leetcode'>
