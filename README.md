@@ -37,6 +37,10 @@ Currently learning Data Science in DeepLearningSchool by MIPT.
     <img align="left" alt="Alex Vyatkin's Coursera profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
 </a>
 
+<a href="https://stepik.org/users/390342899" title='Stepik'>
+    <img align="left" alt="Alex Vyatkin's Stepik profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stepik.svg" />
+</a>
+
 <a href="https://leetcode.com/blckvia/" title='Leetcode'>
   <img align="center" alt="Alex Vyatkin's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
