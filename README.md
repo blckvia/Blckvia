@@ -38,7 +38,7 @@ Currently learning Data Science in DeepLearningSchool by MIPT.
 </a>
 
 <a href="https://stepik.org/users/390342899" title='Stepik'>
-    <img align="left" alt="Alex Vyatkin's Stepik profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stepik.svg" />
+    <img align="left" alt="Alex Vyatkin's Stepik profile" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fteach.stepik.org%2F&psig=AOvVaw1hvghag_ONE0v9Gw3rjIlk&ust=1636882975502000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCtq7iGlfQCFQAAAAAdAAAAABAG" />
 </a>
 
 <a href="https://leetcode.com/blckvia/" title='Leetcode'>
@@ -93,7 +93,7 @@ Currently learning Data Science in DeepLearningSchool by MIPT.
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "Maria Zorkaltseva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blckvia&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "Alex Vyatkin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blckvia&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br/>
     <img alt = "Alex Vyatkin's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
     <br/>
