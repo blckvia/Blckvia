@@ -98,7 +98,5 @@ Currently learning Data Science in DeepLearningSchool by MIPT.
     <img alt = "Alex Vyatkin's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
     <br/>
     <img alt = "Alex Vyatkin's Github Visitors" src="https://visitor-badge.glitch.me/badge?page_id=blckvia.blckvia">  
-    (https://road-to-kaggle-grandmaster.vercel.app/api/badges/blckvia/competition/light)
-
 </p>
 </details>
