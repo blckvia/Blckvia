@@ -1,15 +1,5 @@
 ### Hello there 👋 I'm Alex Vyatkin
 
-Currently learning Data Science in DeepLearningSchool by MIPT.
-
-- 🔭 I’m currently working in the oil and gas industry
-- 🌱 I’m currently learning Machine learning :)
-- 👯 I’m looking to collaborate on Open Source NLP and CV projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about mathematics undestanding under Machine learning algorithms
-- ⚡ Fun fact: In addition to spending time programming and researching in machine learning, I devote my free time to skydiving, skiing, snowboarding, some other sport activities and math as well.
-<hr>
-
 ### Social Media
 
  <a href="https://twitter.com/blckvia" title='Twitter'>
