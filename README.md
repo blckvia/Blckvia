@@ -50,7 +50,7 @@
 
 **Machine learning frameworks and libraries**
 <br/>
-![Django](https://img.shields.io/badge/-pytorch-005571?style=flat-square&logo=django)
+![Django](https://img.shields.io/badge/-django-005571?style=flat-square&logo=django)
 ![Pytorch](https://img.shields.io/badge/-pytorch-005571?style=flat-square&logo=pytorch)
 ![numpy](https://img.shields.io/badge/-numpy-005571?style=flat-square&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-005571?style=flat-square&logo=pandas)
