@@ -51,7 +51,8 @@
 **Machine learning frameworks and libraries**
 <br/>
 ![Django](https://img.shields.io/badge/-django-005571?style=flat-square&logo=django)
-![DRF](https://img.shields.io/badge/-DRF-005571?style=flat-square&logo=DRF)
+![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-005571?style=flat-square&logo=DjangoRestFramework)
+![SQL](https://img.shields.io/badge/-SQL-005571?style=flat-square&logo=SQL)
 ![Pytorch](https://img.shields.io/badge/-pytorch-005571?style=flat-square&logo=pytorch)
 ![numpy](https://img.shields.io/badge/-numpy-005571?style=flat-square&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-005571?style=flat-square&logo=pandas)
