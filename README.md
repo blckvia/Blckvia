@@ -52,7 +52,6 @@
 <br/>
 ![Django](https://img.shields.io/badge/-django-005571?style=flat-square&logo=django)
 ![DjangoRestFramework](https://img.shields.io/badge/-djangorestframework-005571?style=flat-square&logo=djangorestframework)
-![SQL](https://img.shields.io/badge/-sql-005571?style=flat-square&logo=sql)
 ![Docker](https://img.shields.io/badge/-docker-005571?style=flat-square&logo=docker)
 ![Pytorch](https://img.shields.io/badge/-pytorch-005571?style=flat-square&logo=pytorch)
 ![numpy](https://img.shields.io/badge/-numpy-005571?style=flat-square&logo=numpy)
