@@ -61,7 +61,6 @@
 <br/>
 ![Django](https://img.shields.io/badge/-django-005571?style=flat-square&logo=django)
 ![DjangoRestFramework](https://img.shields.io/badge/-djangorestframework-005571?style=flat-square&logo=djangorestframework)
-![Docker](https://img.shields.io/badge/-docker-005571?style=flat-square&logo=docker)
 
 
 **DataBases**
@@ -78,6 +77,7 @@
 
 **Other**
 <br/>
+![Docker](https://img.shields.io/badge/-docker-005571?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-005571?style=flat-square&logo=google-cloud)
 ![Jupyter](https://img.shields.io/badge/-jupyter-005571?style=flat-square&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-googlecolab-005571?style=flat-square&logo=googlecolab)
