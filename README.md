@@ -50,15 +50,19 @@
 
 **Machine learning frameworks and libraries**
 <br/>
-![Django](https://img.shields.io/badge/-django-005571?style=flat-square&logo=django)
-![DjangoRestFramework](https://img.shields.io/badge/-djangorestframework-005571?style=flat-square&logo=djangorestframework)
-![Docker](https://img.shields.io/badge/-docker-005571?style=flat-square&logo=docker)
 ![Pytorch](https://img.shields.io/badge/-pytorch-005571?style=flat-square&logo=pytorch)
 ![numpy](https://img.shields.io/badge/-numpy-005571?style=flat-square&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-005571?style=flat-square&logo=pandas)
 ![scipy](https://img.shields.io/badge/-scipy-005571?style=flat-square&logo=scipy)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-005571?style=flat-square&logo=matplotlib)
 ![sklearn](https://img.shields.io/badge/-sklearn-005571?style=flat-square&logo=sklearn)
+
+**Backend**
+<br/>
+![Django](https://img.shields.io/badge/-django-005571?style=flat-square&logo=django)
+![DjangoRestFramework](https://img.shields.io/badge/-djangorestframework-005571?style=flat-square&logo=djangorestframework)
+![Docker](https://img.shields.io/badge/-docker-005571?style=flat-square&logo=docker)
+
 
 **DataBases**
 <br/>
