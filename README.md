@@ -66,7 +66,7 @@
 **DataBases**
 <br/>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-005571?style=flat-square&logo=postgresql)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-005571?style=flat-square&logo=python)
+![Mysql](https://img.shields.io/badge/-Mysql-005571?style=flat-square&logo=Mysql)
 
 
 **Frontend**
