@@ -78,12 +78,10 @@
 **Other**
 <br/>
 ![Docker](https://img.shields.io/badge/-docker-005571?style=flat-square&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-005571?style=flat-square&logo=google-cloud)
 ![Jupyter](https://img.shields.io/badge/-jupyter-005571?style=flat-square&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-googlecolab-005571?style=flat-square&logo=googlecolab)
 ![Git](https://img.shields.io/badge/-Git-005571?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-005571?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-005571?style=flat-square&logo=gitlab)
 ![JetBrains](https://img.shields.io/badge/-jetbrains-005571?style=flat-square&logo=jetbrains)
 
 <br/>
