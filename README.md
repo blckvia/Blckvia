@@ -20,9 +20,6 @@
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-DRF-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=3bac3a)
-
 
 
 
