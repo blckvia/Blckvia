@@ -46,6 +46,6 @@
 
 ## 📊 Github Stats
 
-<img align="left" alt="Alex Vyatkin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" height="170px"/>
+<img align="left" alt="Alex Vyatkin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blckvia&count_private=true" height="170px"/>
 
 <img align="right" alt="Alex Vyatkin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866%22%20height=%22170px"/>
