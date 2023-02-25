@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Junior Fullstack Software Engineer</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Fullstack Software Engineer</h1>
  <a href="https://github.com/blckvia"> </a>
 
 <p align="center">
