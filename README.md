@@ -2,7 +2,7 @@
  <a href="https://github.com/blckvia"> </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=code&color=1AF761&vCenter=true&lines=Full+Stack+%7C%7C+Front+End+%7C%7C+Back+End;React+%7C%7C+NodeJs+%7C%7C+Express+%7C%7C+MongoDB;Javascript+%7C%7C+TypeScript+%7C%7C+Python;Learning+Things+Every+Day;Never+Stop+Learning" alt="blckvia">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=code&color=1AF761&vCenter=true&lines=Full+Stack+%7C%7C+Front+End+%7C%7C+Back+End;React+%7C%7C+NodeJs+%7C%7C+Django+%7C%7C+MongoDB;Python+%7C%7C+TypeScript+%7C%7C+JavaScript;Learning+Things+Every+Day;Never+Stop+Learning" alt="blckvia">
 </p>
 <hr/>
 
