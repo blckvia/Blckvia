@@ -8,18 +8,15 @@
 
 <img align="right" alt="GIF" src="blckvia.gif" width="450" height="270" />
 
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-DRF-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-NodeJs-informational?style=flat&logo=Node.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-ExpressJs-informational?style=flat&logo=Express&logoColor=white&color=3bac3a)
-
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-DRF-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
-
 
 
 
