@@ -45,4 +45,4 @@
 
 <img align="left" alt="Alex Vyatkin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blckvia&theme=cobalt&count_private=true&include_all_commits=true" height="170px"/>
 
-<img align="right" alt="Alex Vyatkin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&hide=Jupyter%20Notebook,html,css,ejs,scss,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height="170px"/>
+<img align="right" alt="Alex Vyatkin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&hide=Jupyter%20Notebook,html,css,ejs,scss,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4"/>
