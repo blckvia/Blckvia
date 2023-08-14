@@ -1,11 +1,13 @@
 <h1 align="center">Fullstack Software Engineer</h1>
  <a href="https://github.com/blckvia"> </a>
- # Hello, guyz! <img src="https://github.com/Blckvia/Blckvia/blob/main/gopher-dance.gif" width="30px" height="30px" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=code&color=1AF761&vCenter=true&lines=Full+Stack+%7C%7C+Front+End+%7C%7C+Back+End;React+%7C%7C+NodeJs+%7C%7C+Django+%7C%7C+MongoDB;Golang+%7C%7C+Python+%7C%7C+TypeScript+%7C%7C+JavaScript;Learning+Things+Every+Day;Never+Stop+Learning" alt="blckvia">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=code&color=1AF761&vCenter=true&lines=Full+Stack+%7C%7C+Front+End+%7C%7C+Back+End;React+%7C%7C+NodeJs+%7C%7C+Django;Golang+%7C%7C+Python+%7C%7C+TypeScript;Learning+Things+Every+Day;Never+Stop+Learning" alt="blckvia">
 </p>
 <hr/>
+
+# Hello, folks! <img src="https://github.com/Blckvia/Blckvia/blob/main/gopher-dance.gif" width="30px" height="30px" />
+My name is Alex Vyatkin and I'm a software engineer. I'm from Russia, living in Moscow and currently working at ITSports. You can find me on [![LinkedIn][3.2]][3].
 
 <img align="right" alt="GIF" src="blckvia.gif" width="450" height="270" />
 
@@ -48,3 +50,20 @@
 <img align="right" alt="Alex Vyatkin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blckvia&theme=cobalt&count_private=true&include_all_commits=true"/>
 
 <img align="left" alt="Alex Vyatkin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&hide=Jupyter%20Notebook,html,css,ejs,scss,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4"/>
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[2]: https://github.com/Blckvia
+[3]: https://www.linkedin.com/in/blckvia/
