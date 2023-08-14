@@ -1,5 +1,6 @@
 <h1 align="center">Fullstack Software Engineer</h1>
  <a href="https://github.com/blckvia"> </a>
+ # Hello, guyz! <img src="https://github.com/Blckvia/Blckvia/blob/main/gopher-dance.gif" width="30px" height="30px" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=code&color=1AF761&vCenter=true&lines=Full+Stack+%7C%7C+Front+End+%7C%7C+Back+End;React+%7C%7C+NodeJs+%7C%7C+Django+%7C%7C+MongoDB;Golang+%7C%7C+Python+%7C%7C+TypeScript+%7C%7C+JavaScript;Learning+Things+Every+Day;Never+Stop+Learning" alt="blckvia">
