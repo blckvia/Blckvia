@@ -1,4 +1,3 @@
-[![Header](https://github.com/Blckvia/Blckvia/blob/main/AV.png "Header")](https://github.com/Blckvia/){:width="300" height="200"}
 <h1 align="center">Fullstack Software Engineer</h1>
  <a href="https://github.com/blckvia"> </a>
 
