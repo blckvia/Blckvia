@@ -7,7 +7,7 @@
 <hr/>
 
 # Hello, folks! <img src="https://github.com/Blckvia/Blckvia/blob/main/gopher-dance.gif" width="30px" height="30px" />
-My name is Alex Vyatkin and I'm a software engineer. I'm from Russia, living in Moscow and currently working at ITSports. You can find me on [![LinkedIn][3.2]][3]
+My name is Alexander Vyatkin and I'm a software engineer. I'm from Russia, living in Moscow and currently working at ITSports. You can find me on [![LinkedIn][3.2]][3]
 
 <img align="right" alt="GIF" src="blckvia.gif" width="450" height="270" />
 
