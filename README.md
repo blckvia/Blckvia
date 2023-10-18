@@ -39,6 +39,10 @@ My name is Alexander Vyatkin and I'm a software engineer. I'm from Russia, livin
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
 
 <p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=blckvia&color=grey">
+</p>
+
+<p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blckvia&theme=tokyonight_duo&hide_border=true" alt="blckvia" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
     <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/blckvia?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
