@@ -30,8 +30,8 @@ My name is Alexander Vyatkin and I'm a software engineer. I'm from Russia, livin
     <img id="preview" src="https://komarev.com/ghpvc/?username=blckvia&color=grey">
 </p>
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
-    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/blckvia?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&theme=dark&hide=Jupyter%20Notebook,html,css,ejs,scss,tex&layout=compact&langs_count=4&bg_color=101010&hide_title=true"></a>
+    <a href="https://leetcode.com/blckvia/"><img width="48%" src="https://leetcode.card.workers.dev/blckvia?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/blckvia"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&theme=dark&hide=Jupyter%20Notebook,html,css,ejs,scss,tex&layout=compact&langs_count=4&bg_color=101010&hide_title=true"></a>
 </p>
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
