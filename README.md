@@ -58,6 +58,13 @@ My name is Alexander Vyatkin and I'm a software engineer. I'm from Russia, livin
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/blckvia" target="blank"><img align="center" src="https://github.com/blckvia/Blckvia/blob/main/twitter.svg" alt="blckvia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/blckvia" target="blank"><img align="center" src="https://github.com/blckvia/Blckvia/blob/main/linked-in-alt.svg" alt="blckvia" height="30" width="40" /></a>
+<a href="https://instagram.com/blckvia" target="blank"><img align="center" src="https://github.com/blckvia/Blckvia/blob/main/instagram.svg" alt="blckvia" height="30" width="40" /></a>
+
+
 <!--## 📊 Github Stats
 
 <img align="right" alt="Alex Vyatkin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blckvia&theme=cobalt&count_private=true&include_all_commits=true"/>
