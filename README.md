@@ -33,8 +33,27 @@ My name is Alexander Vyatkin and I'm a software engineer. I'm from Russia, livin
     <a href="https://leetcode.com/blckvia/"><img width="48%" src="https://leetcode.card.workers.dev/blckvia?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/blckvia"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&theme=dark&hide=Jupyter%20Notebook,html,css,ejs,scss,tex&layout=compact&langs_count=4&bg_color=101010&hide_title=true"></a>
 </p>
+**languages and tools:**  
 
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="40" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -56,7 +75,7 @@ My name is Alexander Vyatkin and I'm a software engineer. I'm from Russia, livin
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a) -->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
