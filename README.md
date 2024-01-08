@@ -36,23 +36,23 @@ My name is Alexander Vyatkin and I'm a software engineer. I'm from Russia, livin
 
 **languages and tools:** 
 
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="40" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+<img height="40" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 <!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
