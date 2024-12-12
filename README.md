@@ -1,111 +1,105 @@
-<!-- <h1 align="center">Fullstack Software Engineer</h1>
- <a href="https://github.com/blckvia"> </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=code&color=1AF761&vCenter=true&lines=Full+Stack+%7C%7C+Front+End+%7C%7C+Back+End;React+%7C%7C+NodeJs+%7C%7C+Django;Golang+%7C%7C+Python+%7C%7C+TypeScript;Learning+Things+Every+Day;Never+Stop+Learning" alt="blckvia">
+<!-- <a href="https://name.netlify.app/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a> -->
+<a href="https://www.linkedin.com/in/blckvia/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<!-- <a href="https://blckvia.medium.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a> -->
+<a href="https://dev.to/blckvia">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+<a href="https://twitter.com/blckvia">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/blckvia/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="https://t.me/blckvia">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
 </p>
-<hr/> -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
-<p align="center">
-    <h1 align="center">✩&emsp;blckvia&emsp;✩</h1>
+
+<!--<p align="center"> -->
+<!-- 	<p align="center"> -->
+<!--     <img id="preview" src="https://komarev.com/ghpvc/?username=blckvia&color=grey"> -->
+<!-- </p> -->
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Alexander Vyatkin
+located_in: Around the world
+current_job: Software Engineer
+education:
+  [
+    "Master's Degree in Management and Economics",
+    "Master's Degree in Oil and Gas Engineering",
+  ]
+company: MerlionTech
+
+fields_of_interests:
+  [
+    "HighLoad",
+    "Clouds",
+    "Competitive Programming",
+    "Data Science",
+    "Machine Learning",
+  ]
+technical_background:
+  [
+    "Golang Developer"
+    "NodeJs Backend Developer",
+    "Intern - Data Science & Machine Learning in Python",
+  ]
+  
+currently_learning: ["Algorithms and System Design"]
+2024 Goals: ["To get 2200 rating at codeforces", "Get a job at one of the MAANG companies"]
+hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Music"]
+```
+  
+---  
+  
+<h2> 🚀 &nbsp;Languages and tools:</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" alt="goland" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="goLang" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+	
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" alt="grpc" width="45" height="45"/>
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="45" height="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-
-<!-- # Hello, folks! <img src="https://github.com/Blckvia/Blckvia/blob/main/gopher-dance.gif" width="30px" height="30px" />
-My name is Alexander Vyatkin and I'm a software engineer. I'm from Russia, living in Moscow and currently working at ITSports. You can find me on [![LinkedIn][3.2]][3] -->
-
-<!-- <img align="right" alt="GIF" src="blckvia.gif" width="450" height="270" /> -->
-
-<p align="center">
-	<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=blckvia&color=grey">
-</p>
-  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
    <a href="https://leetcode.com/blckvia/"><img width="48%" src="https://leetcode.card.workers.dev/blckvia?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/blckvia"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&layout=compact&hide=Jupyter%20Notebook,html,css,ejs,scss,tex&langs_count=4&bg_color=101010&hide_title=true"></a>
-</p>
 
-**languages and tools:** 
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-
-<!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-DRF-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-NodeJs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-ExpressJs-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=2bbc8a) -->
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://twitter.com/blckvia" target="blank"><img align="center" src="https://github.com/blckvia/Blckvia/blob/main/twitter.svg" alt="blckvia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/blckvia" target="blank"><img align="center" src="https://github.com/blckvia/Blckvia/blob/main/linked-in-alt.svg" alt="blckvia" height="30" width="40" /></a>
-<a href="https://instagram.com/blckvia" target="blank"><img align="center" src="https://github.com/blckvia/Blckvia/blob/main/instagram.svg" alt="blckvia" height="30" width="40" /></a>
-
-
-<!--## 📊 Github Stats
-
-<img align="right" alt="Alex Vyatkin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blckvia&theme=cobalt&count_private=true&include_all_commits=true"/>
-
-<img align="left" alt="Alex Vyatkin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blckvia&hide=Jupyter%20Notebook,html,css,ejs,scss,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4"/> -->
-
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[2]: https://github.com/Blckvia
-[3]: https://www.linkedin.com/in/blckvia/
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
