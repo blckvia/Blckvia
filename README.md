@@ -26,7 +26,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <a href="https://t.me/blckvia">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+  <img height="50" src="2749409_cloud_message_messenger_network_plane_icon.svg"/>
 </a>
 </p>
 
