@@ -66,7 +66,7 @@ technical_background:
   ]
   
 currently_learning: ["Algorithms and System Design"]
-2024 Goals: ["To get 2200 rating at codeforces", "Get a job at one of the MAANG companies"]
+2025 Goals: ["To get 2200 rating at codeforces", "Get a job at one of the MAANG companies"]
 hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Music"]
 ```
   
