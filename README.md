@@ -66,7 +66,7 @@ technical_background:
   ]
   
 currently_learning: ["Algorithms and System Design"]
-2025 Goals: ["To get 2200 rating at codeforces", "Get a job at one of the MAANG companies"]
+2026 Goals: ["To get 1600 rating at codeforces", "Get a job at one of the MAANG companies"]
 hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Music"]
 ```
   
@@ -74,7 +74,6 @@ hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Music"]
   
 <h2> 🚀 &nbsp;Languages and tools:</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" alt="goland" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="goLang" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 	
@@ -87,15 +86,8 @@ hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Music"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
    <a href="https://leetcode.com/blckvia/"><img width="48%" src="https://leetcode.card.workers.dev/blckvia?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
