@@ -65,9 +65,9 @@ technical_background:
     "Intern - Data Science & Machine Learning in Python",
   ]
   
-currently_learning: ["Algorithms and System Design"]
+currently_learning: ["Algorithms & System Design"]
 2026 Goals: ["To get 1600 rating at codeforces", "Get a job at one of the MAANG companies"]
-hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Music"]
+hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Singing", "Drums"]
 ```
   
 ---  
@@ -76,6 +76,7 @@ hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Music"]
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="goLang" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 	
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
@@ -84,7 +85,9 @@ hobbies: ["Coding", "Snowboarding", "Skiing", "Skydinving", "Music"]
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="45" height="45">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
